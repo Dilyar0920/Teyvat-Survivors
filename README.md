@@ -10,15 +10,15 @@
 
 ### 主菜单
 
-<!-- ![主菜单](screenshots/menu.png) -->
+![主菜单](screenshots/menu.png) 
 
 ### 游戏画面
 
-<!-- ![游戏画面](screenshots/gameplay.png) -->
+![游戏画面](screenshots/gameplay.png) 
 
 ### 游戏结束
 
-<!-- ![游戏结束](screenshots/gameover.png) -->
+![游戏结束](screenshots/gameover.png) 
 
 ## 游戏玩法
 
