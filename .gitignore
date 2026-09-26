@@ -1,0 +1,21 @@
+# Visual Studio 缓存与用户文件
+.vs/
+*.user
+*.suo
+
+# 编译输出
+x64/
+Debug/
+Release/
+[Dd]ebug/
+[Rr]elease/
+
+# 编译中间产物
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.log
+*.recipe
